@@ -21,8 +21,8 @@ Check if a singly linked list is a palindrome.
 ### 🧩 Code: [`palindrome_linked_list.c`](./palindrome_linked_list.c)
 
 ### 🎥 Video Explanation:
-- Watch the explanation video below:
-  - [palindrome_explanation.mp4](./palindrome_explanation.mp4)
+- [Watch Explanation Video]([insert_google_drive_link_here](https://drive.google.com/file/d/1EWFK7SQBgyZXuw1XIqLC-H920SL6JNZM/view?usp=drive_link))
+- Or see `palindrome_explanation.mp4` in this folder
 
 ---
 
@@ -41,8 +41,8 @@ Determine if a given number is a perfect square without using the sqrt function.
 ### 🧩 Code: [`valid_perfect_square.c`](./valid_perfect_square.c)
 
 ### 🎥 Video Explanation:
-- Watch the explanation video below:
-  - [perfect_square_explanation.mp4](./perfect_square_explanation.mp4)
+- [Watch Explanation Video]([insert_google_drive_link_here](https://drive.google.com/file/d/1e11gXsIS0Hjzs6nktBpmOBp0kxfuBxpr/view?usp=sharing))
+- Or see `perfect_square_explanation.mp4` in this folder
 
 ---
 
