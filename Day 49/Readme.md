@@ -9,7 +9,7 @@ This repository contains solutions for the Day 49 problems from the Father's Day
 
 ## Video Explanation
 
-[Video Link - to be pasted]()
+[Video Link](https://drive.google.com/file/d/1tdM9-myCojMVUpQx-G_8vtmATpIE96oU/view?usp=sharing)
 
 ---
 
